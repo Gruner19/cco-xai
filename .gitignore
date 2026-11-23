@@ -1,0 +1,34 @@
+# Enunciado da disciplina (nao versionar)
+Projeto_Integrador_CCO_XAI_Enunciado-v2.md
+Projeto_Integrador_CCO_XAI_Enunciado-v2.pdf
+
+# Templates LaTeX do relatorio e da apresentacao
+template-relatorio/
+template-apresentacao/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# LaTeX auxiliares
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.dvi
+texput.log
+
+# Streamlit e sistema
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db

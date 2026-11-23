@@ -1,0 +1,11 @@
+alvo,modelo,cv_neg_mae,strategy,max_depth,n_estimators,min_samples_leaf,subsample,learning_rate
+volume_mm3,dummy,,mean,,,,,
+volume_mm3,LinearRegression,,,,,,,
+volume_mm3,decision_tree,-68.2380049869684,,7.0,,,,
+volume_mm3,random_forest,-50.62983345410034,,10.0,300.0,2.0,,
+volume_mm3,xgboost,-39.979089025007305,,3.0,100.0,,1.0,0.1
+raio_root_mm,dummy,,mean,,,,,
+raio_root_mm,LinearRegression,,,,,,,
+raio_root_mm,decision_tree,-0.10941579781997353,,15.0,,,,
+raio_root_mm,random_forest,-0.08223633650836286,,,100.0,5.0,,
+raio_root_mm,xgboost,-0.0625461954707064,,3.0,100.0,,1.0,0.1

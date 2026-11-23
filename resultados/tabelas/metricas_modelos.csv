@@ -1,0 +1,21 @@
+﻿target,modelo,conjunto,MAE,RMSE,R2
+volume_mm3,Dummy,treino,94.267246,115.068125,0.0
+volume_mm3,Dummy,teste,98.208156,121.349835,-0.015835
+volume_mm3,Regressão Linear,treino,19.759687,25.459748,0.951045
+volume_mm3,Regressão Linear,teste,23.093934,28.593373,0.9436
+volume_mm3,Árvore de Decisão,treino,8.361133,11.93842,0.989236
+volume_mm3,Árvore de Decisão,teste,57.015013,70.821477,0.654001
+volume_mm3,Random Forest,treino,5.656194,7.346492,0.995924
+volume_mm3,Random Forest,teste,48.888471,61.268977,0.741044
+volume_mm3,XGBoost,treino,6.256631,7.907496,0.995278
+volume_mm3,XGBoost,teste,37.526976,47.222068,0.846172
+raio_root_mm,Dummy,treino,0.231247,0.276227,0.0
+raio_root_mm,Dummy,teste,0.26593,0.311441,-0.004213
+raio_root_mm,Regressão Linear,treino,0.044736,0.054671,0.960827
+raio_root_mm,Regressão Linear,teste,0.0562,0.069842,0.949497
+raio_root_mm,Árvore de Decisão,treino,0.002199,0.002811,0.999896
+raio_root_mm,Árvore de Decisão,teste,0.115774,0.134345,0.813139
+raio_root_mm,Random Forest,treino,0.017058,0.023071,0.993024
+raio_root_mm,Random Forest,teste,0.083539,0.101883,0.892532
+raio_root_mm,XGBoost,treino,0.004208,0.005331,0.999628
+raio_root_mm,XGBoost,teste,0.052167,0.066452,0.954282
