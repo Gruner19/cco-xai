@@ -105,6 +105,9 @@ streamlit run webapp/app.py
 
 O aplicativo abrirá automaticamente no navegador em `http://localhost:8501`.
 
+Também pode acessar a versão online em:
+👉 **[CCO-XAI no Streamlit Cloud](https://cco-xai.streamlit.app/)**
+
 ---
 
 ## 📄 Compilação do Relatório e da Apresentação em LaTeX
