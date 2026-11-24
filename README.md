@@ -2,7 +2,8 @@
 
 **Modelagem Preditiva e Explicabilidade em Árvores Arteriais Sintéticas**  
 *Departamento de Computação (DECOM) — Universidade Federal de Ouro Preto (UFOP)*  
-*Disciplina: Inteligência Artificial Explicável (XAI) — 2026*
+*Disciplina: Inteligência Artificial Explicável (XAI) — 2026*  
+*Professor: Prof. Rafael Alves Bonfim de Queiroz*
 
 ---
 

@@ -28,9 +28,12 @@ def render_home() -> None:
     )
 
     st.markdown(
-        "Painel analítico do Projeto Integrador da disciplina de Inteligência "
-        "Artificial Explicável. Reúne exploração de dados, previsões em tempo "
-        "real e avaliação dos modelos treinados sobre 500 árvores CCO."
+        "Painel analítico do Projeto Integrador da disciplina de **Inteligência "
+        "Artificial Explicável** (XAI) do Departamento de Computação (**DECOM**) "
+        "da **Universidade Federal de Ouro Preto (UFOP)**, sob orientação do "
+        "**Prof. Rafael Alves Bonfim de Queiroz**.\n\n"
+        "Este trabalho explora a modelagem preditiva e técnicas de interpretabilidade "
+        "aplicadas a árvores arteriais sintéticas geradas via algoritmo CCO."
     )
 
     c1, c2, c3 = st.columns(3)
